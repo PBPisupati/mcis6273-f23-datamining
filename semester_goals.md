@@ -1,8 +1,8 @@
 # My Semester Goals in Data Mining
 
-- **Deep Understanding**: Master data mining concepts and algorithms.
+- Through this course, I like to learn and understand deeply **The concepts of data mining and algorithms**.
 
-- **Practical Skills**: Apply data preprocessing and model evaluation effectively.
+- I would like to practice thoroughly the concepts and apply the *data preprocessing and model evaluation* effectively.
 
-- **Real-World Impact**: Contribute to meaningful projects and stay updated on industry trends.
-
+- By the end of this course I would like to gain hands-on experience in the range of data mining algorithms, such as decision trees, 
+  clustering, association rule mining, and neural networks.
